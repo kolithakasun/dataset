@@ -13,3 +13,34 @@ ribs
 pulled pork
 hamburger
 cavity
+food
+animal
+vass
+shoe
+clock
+train
+trainanimal.
+bike
+airplane
+oven
+knife
+fork
+vehicle
+board
+knife in hand
+mug
+spoon
+book
+bed
+cupboard
+door
+scating board
+building
+bottle
+pan
+laptop
+mobile
+boat
+racket
+remote
+camera
