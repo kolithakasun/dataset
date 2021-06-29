@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>001_0077.jpg</filename>
+	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\001_0077.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>185</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>54</ymin>
+			<xmax>323</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

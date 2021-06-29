@@ -1,38 +1,38 @@
 <annotation>
 	<folder>images</folder>
-	<filename>000000000025.jpg</filename>
-	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\000000000025.jpg</path>
+	<filename>004_0008.jpg</filename>
+	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\004_0008.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>426</height>
+		<width>172</width>
+		<height>315</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>animal</name>
+		<name>batton</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>365</xmin>
-			<ymin>59</ymin>
-			<xmax>604</xmax>
-			<ymax>359</ymax>
+			<xmin>3</xmin>
+			<ymin>4</ymin>
+			<xmax>83</xmax>
+			<ymax>298</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>animal</name>
+		<name>batton</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>40</xmin>
-			<ymin>342</ymin>
-			<xmax>179</xmax>
-			<ymax>420</ymax>
+			<xmin>89</xmin>
+			<ymin>14</ymin>
+			<xmax>169</xmax>
+			<ymax>310</ymax>
 		</bndbox>
 	</object>
 </annotation>
