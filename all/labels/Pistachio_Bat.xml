@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Pistachio_Bat.JPG</filename>
+	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\Pistachio_Bat.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>884</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>batton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>71</ymin>
+			<xmax>1252</xmax>
+			<ymax>759</ymax>
+		</bndbox>
+	</object>
+</annotation>

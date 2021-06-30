@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>render1.png533971b8-cfea-40c2-b15f-49b9fa0dadb6Larger.jpg</filename>
+	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\render1.png533971b8-cfea-40c2-b15f-49b9fa0dadb6Larger.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>545</width>
+		<height>415</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>batton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>34</ymin>
+			<xmax>513</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Easton-Quantum-Red-and-Silver-32-Youth-Baseball-Bat--12-Drop-Weight_175016A.jpg</filename>
+	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\Easton-Quantum-Red-and-Silver-32-Youth-Baseball-Bat--12-Drop-Weight_175016A.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>batton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>424</ymin>
+			<xmax>1243</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>bate-de-beisbol-louisville-slugger-modelo-armor-D_NQ_NP_136911-MLV20662493326_042016-F.jpg</filename>
+	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\bate-de-beisbol-louisville-slugger-modelo-armor-D_NQ_NP_136911-MLV20662493326_042016-F.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1564</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>batton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>32</ymin>
+			<xmax>1260</xmax>
+			<ymax>1172</ymax>
+		</bndbox>
+	</object>
+</annotation>

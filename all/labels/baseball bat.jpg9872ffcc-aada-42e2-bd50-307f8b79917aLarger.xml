@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>baseball bat.jpg9872ffcc-aada-42e2-bd50-307f8b79917aLarger.jpg</filename>
+	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\baseball bat.jpg9872ffcc-aada-42e2-bd50-307f8b79917aLarger.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>459</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>batton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>39</ymin>
+			<xmax>599</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

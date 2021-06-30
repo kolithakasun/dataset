@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>bate-1969425.jpg</filename>
+	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\bate-1969425.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>551</width>
+		<height>396</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>batton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>55</ymin>
+			<xmax>540</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+</annotation>

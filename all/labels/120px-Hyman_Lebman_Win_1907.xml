@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>120px-Hyman_Lebman_Win_1907.jpg</filename>
+	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\120px-Hyman_Lebman_Win_1907.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>120</width>
+		<height>84</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>21</ymin>
+			<xmax>116</xmax>
+			<ymax>53</ymax>
+		</bndbox>
+	</object>
+</annotation>

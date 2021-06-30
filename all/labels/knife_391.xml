@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>knife_391.jpg</filename>
+	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\knife_391.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>596</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>208</ymin>
+			<xmax>765</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>b45-custom-yellow-birch-baseball-bat-b271-pro-select-custom-21866857607.jpg</filename>
+	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\b45-custom-yellow-birch-baseball-bat-b271-pro-select-custom-21866857607.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>954</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>batton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>293</ymin>
+			<xmax>947</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

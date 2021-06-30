@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>120px-AVPG36C.jpg</filename>
+	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\120px-AVPG36C.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>120</width>
+		<height>49</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>3</ymin>
+			<xmax>114</xmax>
+			<ymax>46</ymax>
+		</bndbox>
+	</object>
+</annotation>

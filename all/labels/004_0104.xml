@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>004_0104.jpg</filename>
+	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\004_0104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>214</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>batton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>14</ymin>
+			<xmax>264</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>
