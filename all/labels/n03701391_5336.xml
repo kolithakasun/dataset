@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>n03701391_5336.JPEG</filename>
+	<path>C:\Users\kavin\Desktop\Kolitha\dataset\all\images\n03701391_5336.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>647</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>10</ymin>
+			<xmax>567</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>
