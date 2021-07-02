@@ -1,0 +1,38 @@
+<annotation>
+	<folder>weapon_detection</folder>
+	<filename>pistol_0313.jpg</filename>
+	<path>C:\Users\kasun\Desktop\dataset\weapon_detection\pistol_0313.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>53</ymin>
+			<xmax>182</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pistol in hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>58</ymin>
+			<xmax>204</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>
