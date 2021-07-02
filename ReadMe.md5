@@ -1,3 +1,10 @@
+# Train Code
+python train.py --img 416 --batch 16 --epochs 100 --data '../data.yaml' --cfg ./models/custom_yolov5s.yaml --weights '' --name yolov5s_results  --cache
+
+# Detect Code
+python detect.py --weights /content/yolov5/runs/train/yolov5s_results3/weights/last.pt --source /content/yolov5/1.mkv
+
+# Test
 curl -L "https://app.roboflow.com/ds/UXLXMgHqjI?key=gjqvCWvQAT" > test2.zip; unzip test2.zip;
 
 # Pistol_Custom Splited and Augmented
